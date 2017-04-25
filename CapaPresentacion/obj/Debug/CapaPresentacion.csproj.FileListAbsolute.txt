@@ -1,0 +1,319 @@
+C:\Users\Asier\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asier\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmInicio.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asier\Source\Repos\4prendas3\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asier\Source\Repos\4prendas4\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Mikel\Documents\2ºDAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas2\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas4\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Davo\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Davo\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas5\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas6\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas7\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas8\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Mikel\Documents\2DAM\Acceso a datos\2ª Evaluación\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Asgarth\Source\Repos\4prendas2\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas9\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas10\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+D:\DAM\Acceso Datos\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asrield\Source\Repos\4prendas11\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Asgarth\Source\Repos\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Mikel\Documents\2DAM\Acceso_a_datos\2a_evaluacion\Ejercicios\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+D:\Larris\4prendas\4prendas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Larris\4prendas\4prendas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maria\Google Drive\Proyectos .Net\4Prendas\4PrendasMaria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
