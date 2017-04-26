@@ -15,7 +15,8 @@ namespace CapaPresentacion
     public partial class frmMenu : Form
     {
         string tipoTienda;
-        string rutaAMisDocumentos = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        //string rutaAMisDocumentos = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); 
+        string mydocpath = Application.StartupPath + "/Archivos";  // Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         bool estaCargado = false;
 
         public frmMenu()
@@ -25,6 +26,10 @@ namespace CapaPresentacion
 
         private void frmMenu_Load(object sender, EventArgs e)
         {
+            if (!System.IO.Directory.Exists(Application.StartupPath + "/Archivos"))
+            {
+                System.IO.Directory.CreateDirectory(Application.StartupPath + "/Archivos");
+            }
             estaCargado = false;
             int medioY = this.Size.Height / 2;
             btnRecogida.Location = new Point((this.Size.Width / 4) - btnRecogida.Width / 2, medioY - (btnRecogida.Height / 2));
@@ -75,9 +80,9 @@ namespace CapaPresentacion
             string line;
             try
             {
-
-                System.IO.StreamReader file = new System.IO.StreamReader(rutaAMisDocumentos + @"\.config.txt");
-
+               
+                //System.IO.StreamReader file = new System.IO.StreamReader(rutaAMisDocumentos + @"\.config.txt");
+                System.IO.StreamReader file = new System.IO.StreamReader(mydocpath  + @"\.config.txt");
                 System.Console.WriteLine(tipoTienda);
                 while ((line = file.ReadLine()) != null)
                 {
@@ -102,7 +107,8 @@ namespace CapaPresentacion
             try
             {
 
-                using (StreamWriter outputFile = new StreamWriter(rutaAMisDocumentos + @"\.config.txt"))
+                //using (StreamWriter outputFile = new StreamWriter(rutaAMisDocumentos + @"\.config.txt"))
+                using (StreamWriter outputFile = new StreamWriter(mydocpath  + @"\.config.txt"))
                 {
                     outputFile.WriteLine("ShopMode=" + tipoTienda);
                 }

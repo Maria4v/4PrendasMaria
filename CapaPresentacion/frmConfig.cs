@@ -20,11 +20,11 @@ namespace CapaPresentacion
         List<Empleado> empleadosCreados = new List<Empleado>();
         List<Empleado> empleadosBorrados = new List<Empleado>();
         List<Familia> familias;
-        List<SubFamilia> subFamilias;
+        //List<SubFamilia> subFamilias;
         Producto producto;
         string tipoTiendaAnterior;
 
-        string rutaMisDocumentos = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        string rutaMisDocumentos = Application.StartupPath + "/Archivos"; //Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         string tipoTienda;
         bool cambios;
 

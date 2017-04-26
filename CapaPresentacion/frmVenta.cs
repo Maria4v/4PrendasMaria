@@ -179,7 +179,9 @@ namespace CapaPresentacion
             string line;
             try
             {
-                string mydocpath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+               
+                string mydocpath =  Application.StartupPath + "/Archivos";  // Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); 
+
                 System.IO.StreamReader file = new System.IO.StreamReader(mydocpath + @"\.config.txt");
                 System.Console.WriteLine(tipoTienda);
                 while ((line = file.ReadLine()) != null)
@@ -190,6 +192,7 @@ namespace CapaPresentacion
                     }
                 }
                 file.Close();
+              
             }
             catch
             {
