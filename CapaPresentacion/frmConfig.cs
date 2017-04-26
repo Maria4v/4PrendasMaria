@@ -24,7 +24,7 @@ namespace CapaPresentacion
         Producto producto;
         string tipoTiendaAnterior;
 
-        string rutaMisDocumentos = Application.StartupPath + "/Archivos"; //Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+        string rutaConfig = Application.StartupPath + "/Archivos"; //Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         string tipoTienda;
         bool cambios;
 
@@ -165,7 +165,7 @@ namespace CapaPresentacion
             try
             {
 
-                System.IO.StreamReader file = new System.IO.StreamReader(rutaMisDocumentos + @"\.config.txt");
+                System.IO.StreamReader file = new System.IO.StreamReader(rutaConfig + @"\.config.txt");
 
                 System.Console.WriteLine(tipoTienda);
                 while ((line = file.ReadLine()) != null)
@@ -217,7 +217,7 @@ namespace CapaPresentacion
             try
             {
 
-                using (StreamWriter outputFile = new StreamWriter(rutaMisDocumentos + @"\.config.txt"))
+                using (StreamWriter outputFile = new StreamWriter(rutaConfig + @"\.config.txt"))
                 {
                     outputFile.WriteLine("ShopMode=" + tipoTienda);
                 }
@@ -739,7 +739,7 @@ namespace CapaPresentacion
                     string nombreArchivo;
                     nombreArchivo = System.IO.Path.GetFileNameWithoutExtension(txtCrearFoto.Text);
                     Bitmap imagen = new Bitmap(txtCrearFoto.Text);
-                    rutaImagen = rutaMisDocumentos + "/" + nombreArchivo + ".jpeg";
+                    rutaImagen = rutaConfig + "/" + nombreArchivo + ".jpeg";
                     imagen.Save(rutaImagen, System.Drawing.Imaging.ImageFormat.Jpeg);
 
                 }
