@@ -27,6 +27,7 @@ namespace CapaPresentacion
         string rutaConfig = Application.StartupPath + "/Archivos"; //Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         string tipoTienda;
         bool cambios;
+        string baseDatos = "4Prendas.accdb";
 
         public frmConfig()
         {
@@ -320,23 +321,42 @@ namespace CapaPresentacion
 
         private void btnCopy_Click(object sender, EventArgs e)
         {
-            string archivoCopiar;
-            SaveFileDialog nuevaCopia = new SaveFileDialog();
-            nuevaCopia.Filter = "Base de datos|*.accdb";
-            nuevaCopia.ShowDialog();
-            archivoCopiar = "4Prendas.accdb";
-
-            if (System.IO.File.Exists(archivoCopiar))
+          
+            //SaveFileDialog nuevaCopia = new SaveFileDialog();
+            //nuevaCopia.Filter = "Base de datos|*.accdb";
+            //nuevaCopia.ShowDialog();
+            //if (System.IO.File.Exists(archivoCopiar))
+            //{
+            //    if (!nuevaCopia.FileName.Equals(""))
+            //    {
+            //        System.IO.File.Copy(archivoCopiar, nuevaCopia.FileName);
+            //        MessageBox.Show("File Copied");
+            //    }
+            //}
+            FolderBrowserDialog carpetasDialog = new FolderBrowserDialog();
+            if (carpetasDialog.ShowDialog() == DialogResult.Cancel) return;
+            string carpetaElegida = carpetasDialog.SelectedPath;
+            string nombreCopia = DateTime.Today.Year.ToString("00") + DateTime.Today.Month.ToString("00") + DateTime.Today.Month.ToString("00") + baseDatos;
+            string baseDatosCopia = carpetasDialog.SelectedPath +   "\\" + nombreCopia;
+           
+            if (System.IO.File.Exists (baseDatosCopia ))
             {
-                if (!nuevaCopia.FileName.Equals(""))
-                {
-                    System.IO.File.Copy(archivoCopiar, nuevaCopia.FileName);
-                    MessageBox.Show("File Copied");
-                }
+                if (MessageBox.Show("Hoy ya has realizado una copia en esta carpeta, ¿quieres sobreescribirla?", "Atención", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No) return;
             }
+            try
+                {
+                    System.IO.File.Copy(baseDatos, baseDatosCopia,true );
+                    MessageBox.Show("Copia realizada con éxito","Comentario",MessageBoxButtons.OK,MessageBoxIcon.Information);
 
-
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Error, consulte con su administrador@",MessageBoxButtons.OK, MessageBoxIcon.Error);
+                } 
         }
+
+
+
 
         private void soloNumeros(object sender, KeyPressEventArgs e)
         {
@@ -520,9 +540,10 @@ namespace CapaPresentacion
                     {
                         using (myStream)
                         {
-                            DialogResult result = MessageBox.Show("¿ESTÁ SEGURO DE QUERER SOBRESCRIBIR LA BASE DE DATOS ACTUAL POR EL ARCHIVO SELECCIONADO? RECUERDE QUE ESTE CAMBIO NO SE PODRÁ DESHACER.", "", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning);
+                            DialogResult result = MessageBox.Show("¿ESTÁ SEGURO DE QUERER SOBRESCRIBIR LA BASE DE DATOS ACTUAL POR EL ARCHIVO SELECCIONADO? RECUERDE QUE ESTE CAMBIO NO SE PODRÁ DESHACER.", "", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                             if (result == DialogResult.Yes)
                             {
+                                
                                 File.Copy(openFileDialog1.FileName, "4Prendas.accdb", true);
                             }
                             return;

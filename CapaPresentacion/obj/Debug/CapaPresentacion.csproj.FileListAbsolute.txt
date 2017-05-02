@@ -338,3 +338,25 @@ C:\Users\Maria\Google Drive\Proyectos .Net\4Prendas\4PrendasMaria\CapaPresentaci
 C:\Users\Maria\Google Drive\Proyectos .Net\4Prendas\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
 C:\Users\Maria\Google Drive\Proyectos .Net\4Prendas\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Maria\Google Drive\Proyectos .Net\4Prendas\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\Spire.Barcode.dll
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\Spire.Barcode.xml
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmConfig.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmLoginAdmin.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmRecogida.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.frmRegistro.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\AULA24\Source\Repos\4PrendasMaria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
