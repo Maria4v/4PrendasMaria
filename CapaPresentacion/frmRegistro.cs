@@ -479,5 +479,10 @@ namespace CapaPresentacion
 
             }
         }
+
+        private void frmRegistro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

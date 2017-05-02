@@ -18,7 +18,8 @@ namespace CapaDatos
             string sql = @"SELECT *
                             FROM   Familia f
                             INNER JOIN SubFamilia sf
-                             ON sf.FamiliaCod = f.CodFamilia;";
+                             ON sf.FamiliaCod = f.CodFamilia
+                             ORDER BY f.CodFamilia, sf.CodSubFamilia;";
             OleDbConnection conTabla = new OleDbConnection(cadenaConexion);
             OleDbCommand cmd = new OleDbCommand(sql, conTabla);
             try
@@ -1029,7 +1030,8 @@ namespace CapaDatos
             }
             catch (Exception ex)
             {
-                throw ex;
+                return 0;
+                //throw ex;
             }
             finally
             {
