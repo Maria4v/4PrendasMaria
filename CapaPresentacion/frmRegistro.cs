@@ -97,7 +97,7 @@ namespace CapaPresentacion
         private void cargarSubfamilias(object sender, EventArgs e)
         {
             ponerFamiliasEnBlanco();
-
+            lblCodArticulo.Text = "";
             Button b = (Button)sender;
             b.BackColor = Color.LightBlue;
 
@@ -184,9 +184,10 @@ namespace CapaPresentacion
 
         private void btnGenerar_Click(object sender, EventArgs e)
         {
-            if (hayErrores())
+            string errores = hayErrores();
+            if (errores!="")
             {
-                MessageBox.Show("Los campos obligatorios deben ser introducidos.", "ATENCIÓN", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(errores, "ATENCIÓN", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
@@ -221,9 +222,9 @@ namespace CapaPresentacion
                     producto.EmpleadoId = ((Empleado)cmbEmpleado.SelectedItem).EmpleadoId;
                     producto.FechaEntrada = Util.GetDateWithoutMilliseconds(DateTime.Now);
                     producto.RecogidaId = ((Recogida)cboRecogida.SelectedItem).IdRecogida;
-                    string codfamilia = producto.CodigoArticulo.Substring(0, 2);
+                    string codfamilia = producto.CodigoArticulo.Substring(7, 1);  //0,2
                     producto.CodFamilia = codfamilia;
-                    string codsubfamilia = producto.CodigoArticulo.Substring(2, 2);
+                    string codsubfamilia = producto.CodigoArticulo.Substring(8, 1); //(2, 2);
                     producto.CodSubFamilia = codsubfamilia;
 
                     Lugar lugarFinal = Modulo.miNegocio.getLugar(lugar);
@@ -251,26 +252,26 @@ namespace CapaPresentacion
 
         }
 
-        private bool hayErrores()
+        private string hayErrores()
         {
-            if (lblCodArticulo.Text.Length != 7)
+            if (lblCodArticulo.Text.Length != 5) // Modificado de 7 a 5
             {
-                return true;
+                return "Debes elegir familia y subfamilia";
             }
 
             if (!chb.Checked && cboRecogida.SelectedItem == null)
             {
                 cboRecogida.Focus();
-                return true;
+                return "Falta la recogida";
             }
 
             if (cmbEmpleado.SelectedItem == null)
             {
                 cmbEmpleado.Focus();
-                return true;
+                return "Elige el o la empleada";
             }
 
-            return false;
+            return "";
         }
 
         private void btnAtras_Click(object sender, EventArgs e)
@@ -342,7 +343,6 @@ namespace CapaPresentacion
             dgvProductos.Visible = !dgvProductos.Visible;
 
             habilitarControlesInsercion(!dgvProductos.Visible);
-            
             codBarrasProductoSeleccionado = "2231014";
             ponerFamiliasEnBlanco();
             ponerSubfamiliasEnBlanco();
@@ -484,5 +484,9 @@ namespace CapaPresentacion
         {
 
         }
+
+        
+
+      
     }
 }

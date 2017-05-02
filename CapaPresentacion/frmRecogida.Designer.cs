@@ -193,9 +193,19 @@
             0,
             0,
             0});
+            this.nudEmpleado.Minimum = new decimal(new int[] {
+            14,
+            0,
+            0,
+            0});
             this.nudEmpleado.Name = "nudEmpleado";
             this.nudEmpleado.Size = new System.Drawing.Size(58, 20);
             this.nudEmpleado.TabIndex = 64;
+            this.nudEmpleado.Value = new decimal(new int[] {
+            14,
+            0,
+            0,
+            0});
             this.nudEmpleado.Leave += new System.EventHandler(this.nudEmployee_Leave);
             // 
             // gbRecogida

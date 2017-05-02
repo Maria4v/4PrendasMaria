@@ -10,6 +10,8 @@ namespace CapaDatos
 {
     public class Datos
     {
+        public Datos()
+        { }
         private static string cadenaConexion = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=4prendas.accdb";
 
         public List<Familia> getFamiliasSubfamilias()

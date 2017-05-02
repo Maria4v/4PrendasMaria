@@ -81,6 +81,7 @@
             this.cmbEmpleado = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.dgvProductos = new System.Windows.Forms.DataGridView();
+            this.label2 = new System.Windows.Forms.Label();
             this.gboRegistro.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudCoste)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudAltura)).BeginInit();
@@ -96,6 +97,7 @@
             // 
             this.gboRegistro.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.gboRegistro.BackColor = System.Drawing.Color.Transparent;
+            this.gboRegistro.Controls.Add(this.label2);
             this.gboRegistro.Controls.Add(this.btnImprimir);
             this.gboRegistro.Controls.Add(this.chb);
             this.gboRegistro.Controls.Add(this.lblCodArticulo);
@@ -144,7 +146,7 @@
             // chb
             // 
             this.chb.AutoSize = true;
-            this.chb.Location = new System.Drawing.Point(6, 488);
+            this.chb.Location = new System.Drawing.Point(3, 447);
             this.chb.Name = "chb";
             this.chb.Size = new System.Drawing.Size(114, 17);
             this.chb.TabIndex = 8;
@@ -359,7 +361,7 @@
             this.btnAtras.BackgroundImage = global::CapaPresentacion.Properties.Resources.exit;
             this.btnAtras.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnAtras.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAtras.Location = new System.Drawing.Point(1186, 655);
+            this.btnAtras.Location = new System.Drawing.Point(1186, 647);
             this.btnAtras.Name = "btnAtras";
             this.btnAtras.Size = new System.Drawing.Size(75, 113);
             this.btnAtras.TabIndex = 20;
@@ -665,12 +667,22 @@
             this.dgvProductos.Visible = false;
             this.dgvProductos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProductos_CellClick);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Black;
+            this.label2.Location = new System.Drawing.Point(6, 477);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(124, 13);
+            this.label2.TabIndex = 29;
+            this.label2.Text = "Elige Familia y Subfamilia";
+            // 
             // frmRegistro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1273, 780);
+            this.ClientSize = new System.Drawing.Size(1273, 772);
             this.Controls.Add(this.dgvProductos);
             this.Controls.Add(this.imgEmpleado);
             this.Controls.Add(this.lblNombreEmpleado);
@@ -754,5 +766,6 @@
         private System.Windows.Forms.DataGridView dgvProductos;
         private System.Windows.Forms.CheckBox chb;
         private System.Windows.Forms.Button btnImprimir;
+        private System.Windows.Forms.Label label2;
     }
 }
