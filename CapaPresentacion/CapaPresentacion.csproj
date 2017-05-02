@@ -135,6 +135,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="bin\Debug\CapaPresentacion.exe.config" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -241,6 +242,8 @@
     <None Include="Resources\back-arrow1.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\CapaPresentacion.exe" />
+    <Content Include="bin\Debug\CapaPresentacion.pdb" />
     <Content Include="iconoTienda.ico" />
   </ItemGroup>
   <ItemGroup>
@@ -254,6 +257,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Vacia\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

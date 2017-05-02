@@ -543,8 +543,17 @@ namespace CapaPresentacion
                             DialogResult result = MessageBox.Show("¿ESTÁ SEGURO DE QUERER SOBRESCRIBIR LA BASE DE DATOS ACTUAL POR EL ARCHIVO SELECCIONADO? RECUERDE QUE ESTE CAMBIO NO SE PODRÁ DESHACER.", "", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                             if (result == DialogResult.Yes)
                             {
-                                
-                                File.Copy(openFileDialog1.FileName, "4Prendas.accdb", true);
+                                try
+                                {
+                                     File.Copy(openFileDialog1.FileName, "4Prendas.accdb", true);
+                                    MessageBox.Show("Restauración realizada con éxito", "Comentario", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                                }
+                                catch (Exception ex)
+                                {
+                                    MessageBox.Show(ex.Message, "Error, consulte con su administrador@", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                }
+                               
                             }
                             return;
 
