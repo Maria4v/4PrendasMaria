@@ -517,10 +517,11 @@ namespace CapaDatos
 
         public string getCodigoBarras(string codigoArticulo)
         {
-            String codigoB = codigoArticulo.ToString().Substring(0, 7) +
-                getFamiliaNumCod(codigoArticulo.ToString().Substring(7, 2)) +
-                getSubFamiliaNumCod(codigoArticulo.ToString().Substring(7, 2), codigoArticulo.ToString().Substring(9, 2)) +
-                codigoArticulo.ToString().Substring(11, 3);
+            String codigoB = codigoArticulo.ToString(); // TODO Calcular último dígito
+                //codigoArticulo.ToString().Substring(0, 7) +
+                //getFamiliaNumCod(codigoArticulo.ToString().Substring(7, 2)) +
+                //getSubFamiliaNumCod(codigoArticulo.ToString().Substring(7, 2), codigoArticulo.ToString().Substring(9, 2)) +
+                //codigoArticulo.ToString().Substring(11, 3);
 
             return codigoB;
         }

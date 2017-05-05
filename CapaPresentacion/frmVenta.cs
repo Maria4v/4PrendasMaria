@@ -122,6 +122,12 @@ namespace CapaPresentacion
         {
             try
             {
+                //if (string.IsNullOrWhiteSpace(txtBuscar.Text))
+                //{
+                //    cmbBuscar.DataSource = null;
+                //    return;
+                //}
+                    
                 switch (cmbBuscar.SelectedItem.ToString())
                 {
                     case "Código de barras":
@@ -324,6 +330,7 @@ namespace CapaPresentacion
 
         private void dgvProducts_DataSourceChanged(object sender, EventArgs e)
         {
+            if (dgvProductos.DataSource == null) return;
             this.dgvProductos.Columns["StockMinimo"].Visible = false;
             this.dgvProductos.Columns["EmpleadoId"].Visible = false;
             this.dgvProductos.Columns["RecogidaId"].Visible = false;
@@ -511,6 +518,12 @@ namespace CapaPresentacion
             bw.Flush();
             bw.Close();
             fs.Close();
+        }
+
+        private void cmbBuscar_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbBuscar.SelectedIndex == -1) return;
+            dgvProductos.DataSource = null;
         }
     }
 }

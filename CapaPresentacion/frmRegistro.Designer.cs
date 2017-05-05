@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRegistro));
             this.gboRegistro = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.btnImprimir = new System.Windows.Forms.Button();
             this.chb = new System.Windows.Forms.CheckBox();
             this.lblCodArticulo = new System.Windows.Forms.Label();
@@ -81,7 +82,6 @@
             this.cmbEmpleado = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.dgvProductos = new System.Windows.Forms.DataGridView();
-            this.label2 = new System.Windows.Forms.Label();
             this.gboRegistro.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudCoste)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudAltura)).BeginInit();
@@ -128,6 +128,15 @@
             this.gboRegistro.TabStop = false;
             this.gboRegistro.Text = "Registro de Articulos";
             // 
+            // label2
+            // 
+            this.label2.ForeColor = System.Drawing.Color.Black;
+            this.label2.Location = new System.Drawing.Point(6, 407);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(124, 54);
+            this.label2.TabIndex = 29;
+            this.label2.Text = "Para ver productos existentes elige antes Familia y Subfamilia";
+            // 
             // btnImprimir
             // 
             this.btnImprimir.BackColor = System.Drawing.Color.White;
@@ -146,11 +155,11 @@
             // chb
             // 
             this.chb.AutoSize = true;
-            this.chb.Location = new System.Drawing.Point(3, 447);
+            this.chb.Location = new System.Drawing.Point(6, 464);
             this.chb.Name = "chb";
-            this.chb.Size = new System.Drawing.Size(114, 17);
+            this.chb.Size = new System.Drawing.Size(124, 17);
             this.chb.TabIndex = 8;
-            this.chb.Text = "Producto existente";
+            this.chb.Text = "Productos existentes";
             this.chb.UseVisualStyleBackColor = true;
             this.chb.CheckedChanged += new System.EventHandler(this.chb_CheckedChanged);
             // 
@@ -667,16 +676,6 @@
             this.dgvProductos.Visible = false;
             this.dgvProductos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProductos_CellClick);
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(6, 477);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(124, 13);
-            this.label2.TabIndex = 29;
-            this.label2.Text = "Elige Familia y Subfamilia";
-            // 
             // frmRegistro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -696,7 +695,6 @@
             this.Name = "frmRegistro";
             this.Text = "frmRegistro";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.frmRegistro_Load);
             this.gboRegistro.ResumeLayout(false);
             this.gboRegistro.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudCoste)).EndInit();

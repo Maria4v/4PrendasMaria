@@ -412,7 +412,7 @@ namespace CapaPresentacion
                 }
 
                 productoExistenteSeleccionado = productos.ElementAt(e.RowIndex);
-                lblCodArticulo.Text = productoExistenteSeleccionado.CodigoArticulo.Substring(7, 7);
+                lblCodArticulo.Text = productoExistenteSeleccionado.CodigoArticulo.Substring(7); // (7,7)
                 codBarrasProductoSeleccionado = Modulo.miNegocio.getCodigoBarras(productoExistenteSeleccionado.CodigoArticulo);
             } catch(Exception ex)
             {
@@ -480,13 +480,6 @@ namespace CapaPresentacion
             }
         }
 
-        private void frmRegistro_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        
-
-      
+     
     }
 }
